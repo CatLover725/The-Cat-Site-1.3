@@ -1,0 +1,194 @@
+body{
+    color: white;
+    background-color: rgb(255, 165, 243);
+}
+
+nav{
+    border-bottom: dotted white 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.title{
+    text-align: start;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 550;
+}
+
+.nav{
+    margin-left: 250px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 46px;
+    font-weight: 500;
+}
+
+.Nav{
+    margin-left: 450px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 46px;
+    font-weight: 500;
+}
+
+.NAv{
+    margin-left: 600px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 46px;
+    font-weight: 500;
+}
+
+
+.NAV{
+    margin-left: 800px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 46px;
+    font-weight: 500;
+}
+
+.info{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.cat{
+    height: 700px;
+    width: 480px;
+    float: right;
+    border: dotted white 10px;
+}
+
+.Info{
+    float: left;
+    width: 700px;
+    position: relative;
+}
+
+.A{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+}
+
+.wiki{
+    background-color: rgb(214, 96, 198);
+    border: dotted white 5px;
+    border-radius: 50px;
+    height: 150px;
+    width: 480px;
+    float: left;
+}
+
+.Information{
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: -20px;
+}
+
+.info_breed{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.cat_breed{
+    height: 700px;
+    width: 480px;
+    float: right;
+    border: dotted white 10px;
+    margin-top: 100px;
+}
+
+.Info_breed{
+    float: right;
+    width: 700px;
+    position: relative;
+}
+
+.google{
+    background-color: rgb(214, 96, 198);
+    border: dotted white 5px;
+    border-radius: 50px;
+    height: 150px;
+    width: 480px;
+    float: right;
+}
+
+.Breeds{
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 50px;
+  float: right;
+}
+
+.cat_evol{
+    height: 500px;
+    width: 480px;
+    float: right;
+    border: dotted white 10px;
+}
+
+ .HOVER:hover .A{
+    color: rgb(214, 96, 198);
+    transition: 0.5s linear;
+ }
+
+  .HOVER:hover .wiki{
+    background-color: white;
+    border: rgb(214, 96, 198) dotted 5px;
+    transition: 0.5s linear;
+ }
+
+   .HOVER:hover .google{
+    background-color: white;
+    border: rgb(214, 96, 198) dotted 5px;
+    transition: 0.5s linear;
+ }
+
+ .cat_health{
+    height: 450px;
+    width: 480px;
+    float: right;
+    border: dotted white 10px;
+    margin-top: 100px;
+}
+
+.FOOTER{
+    width: 100%;
+    background-color: rgb(214, 96, 198);
+    float: left;
+    margin: 0 -8px;
+    padding-right: 16px;
+    padding-top: 30px;
+}
+
+.Footer{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+
+.last_img{
+    float: right;
+    margin-top: -150px;
+}
+
+
+
+
